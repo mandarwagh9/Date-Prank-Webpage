@@ -28,7 +28,3 @@ Demo link: https://mandarwagh9.github.io/Date-Prank-Webpage/
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
-
----
-
-This README file provides a comprehensive overview of the project, including setup instructions, code explanations, and customization options. Adjust the demo screenshot URL and repository URL as needed.
