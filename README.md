@@ -1,12 +1,8 @@
-Here's a README file for the project, explaining its functionality and how to set it up:
-
----
-
-# Yes or No Button Challenge
+# Date Prank Website
 
 ## Overview
 
-This project creates a playful webpage that asks the user, "Will you go on a date with me?" The page features two buttons: "Yes" and "No." When the user tries to click the "No" button, it moves slightly, making it difficult to click. If the user clicks the "Yes" button, they are redirected to another page.
+This project creates a playful webpage that asks the user, "Will you go on a date with me?" The page features two buttons: "Yes" and "No." When the user tries to click the "No" button, it moves slightly, making it difficult to click. If the user clicks the "Yes" button, they are redirected to the page with time and location for the date.
 
 ## Features
 
