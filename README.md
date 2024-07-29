@@ -12,7 +12,7 @@ This project creates a playful webpage that asks the user, "Will you go on a dat
 
 ## Demo
 
-Demo link: 
+Demo link: https://mandarwagh9.github.io/Date-Prank-Webpage/
 
 ## Technologies Used
 
